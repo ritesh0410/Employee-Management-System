@@ -1,1 +1,36 @@
-# Employee-Management-System
+🚀 Employee Management System
+<br>
+A simple web-based Employee Management System built using Spring Boot, Thymeleaf, and Hibernate (JPA). This project allows users to perform CRUD operations on employee records via a clean UI.
+<br>
+
+🧰** Technologies Used**
+<br>
+
+Java 17+
+Spring Boot
+Spring MVC
+Spring Data JPA (Hibernate)
+Thymeleaf (template engine)
+MySQL
+Maven
+
+<br>
+📁 **Features**
+<br>
+1. View all employees
+
+2. Add a new employee
+
+3. Edit employee details
+
+4. Delete employee record
+
+5. Flash messages for user feedback
+
+📸 Screenshots
+
+
+
+🧑‍💻** Author**
+Ritesh Kumar
+📧 ritesh0410
