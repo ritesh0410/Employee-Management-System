@@ -31,12 +31,9 @@ A simple web-based Employee Management System built using Spring Boot, Thymeleaf
 
 ![image](https://github.com/user-attachments/assets/e0e3fc6b-52e2-4344-9717-5af7445dfcd4)
 <br>
-![image](https://github.com/user-attachments/assets/6a167055-e962-4369-8baf-7b12e7b0ec62)
+![image](https://github.com/user-attachments/assets/c91b32cf-e598-406e-a5e8-d99d36d32000)
 
-
-
-
-
+<br>
 
 🧑‍💻** Author**
 <br>
