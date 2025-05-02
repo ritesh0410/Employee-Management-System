@@ -6,13 +6,13 @@ A simple web-based Employee Management System built using Spring Boot, Thymeleaf
 🧰** Technologies Used**
 <br>
 
-Java 17+
-Spring Boot
-Spring MVC
-Spring Data JPA (Hibernate)
-Thymeleaf (template engine)
-MySQL
-Maven
+1. Java 17+
+2. Spring Boot
+3. Spring MVC
+4. Spring Data JPA (Hibernate)
+5. Thymeleaf (template engine)
+6. MySQL
+7. Maven
 
 <br>
 📁 **Features**
